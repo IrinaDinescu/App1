@@ -13,6 +13,8 @@ using Xamarin.Forms.Xaml;
 namespace App1.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
+
+    //COmentariu
     public partial class BookDetailsPage : ContentPage
     {
         private int id;
