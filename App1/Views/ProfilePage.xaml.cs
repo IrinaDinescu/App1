@@ -15,6 +15,12 @@ namespace App1.Views
         public ProfilePage()
         {
             InitializeComponent();
+            if(App.User != null)
+            {
+                EntryUserName.Text = App.User.UserName;
+                EntryUseEmail.Text = App.User.Email;
+                EntryUserPhoneNumber.Text = App.User.PhoneNumber;
+            }
         }
 
         async void insertNewBook(object sender, EventArgs e)

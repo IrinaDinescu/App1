@@ -37,8 +37,11 @@ namespace App1.Views
 
             if(myQuery != null)
             {
-               // App.Current.MainPage = new NavigationPage(new HomePage());
+                // App.Current.MainPage = new NavigationPage(new HomePage());
+                App.User = myQuery;
                 App.Current.MainPage = new NavigationPage(new Tabbed());
+                
+ 
             }
             else
             {

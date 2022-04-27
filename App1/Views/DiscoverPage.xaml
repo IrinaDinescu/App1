@@ -5,10 +5,6 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="App1.Views.DiscoverPage">
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add"
-                     />
-    </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout>
             <CollectionView x:Name="myCollectionView"
