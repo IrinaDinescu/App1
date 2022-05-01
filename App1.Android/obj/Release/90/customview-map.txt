@@ -1,0 +1,82 @@
+@string/appbar_scrolling_view_behavior;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\enterfromleft.xml
+alpha;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Release\90\res\layout\tabbar.xml
+android.support.v4.widget.Space;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_shifting.xml
+android.support.v7.widget.RecyclerView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Release\90\res\layout\toolbar.xml
+background;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+bool;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\bools.xml
+bool;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values-sw600dp\bools.xml
+cache-path;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\colors.xml
+color;obj\Release\90\res\values\colors.xml
+dimen;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\dimens.xml
+external-cache-path;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container.xml
+FrameLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+FrameLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_fixed.xml
+FrameLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_fixed_tablet.xml
+FrameLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\bottomtablayout.xml
+gradient;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\drawable\bb_bottom_bar_top_shadow.xml
+ImageView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container.xml
+ImageView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_fixed.xml
+ImageView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_fixed_tablet.xml
+ImageView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_shifting.xml
+item;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\styles.xml
+item;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\values\styles.xml
+item;obj\Release\90\res\values\styles.xml
+LinearLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container.xml
+LinearLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+LinearLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_shifting.xml
+LinearLayout;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\bottomtablayout.xml
+merge;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container.xml
+merge;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+paths;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\0\jl\res\values\strings.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\attrs.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\bools.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\colors.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\dimens.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\strings.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\styles.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values-sw600dp\bools.xml
+resources;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\values\styles.xml
+resources;obj\Release\90\res\values\colors.xml
+resources;obj\Release\90\res\values\styles.xml
+set;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\enterfromleft.xml
+set;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\enterfromright.xml
+set;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\exittoleft.xml
+set;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\exittoright.xml
+shape;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\drawable\bb_bottom_bar_top_shadow.xml
+string;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\0\jl\res\values\strings.xml
+string;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\strings.xml
+style;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\values\styles.xml
+style;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\values\styles.xml
+style;obj\Release\90\res\values\styles.xml
+TextView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_fixed.xml
+TextView;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_shifting.xml
+translate;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\enterfromleft.xml
+translate;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\enterfromright.xml
+translate;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\exittoleft.xml
+translate;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\anim\exittoright.xml
+View;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container.xml
+View;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\1\jl\res\layout\bb_bottom_bar_item_container_tablet.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Irina\Facultate\Master\An I\Sem II\PDM\App1\App1\App1.Android\obj\Release\90\lp\42\jl\res\layout\rootlayout.xml
